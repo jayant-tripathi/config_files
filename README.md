@@ -1,7 +1,7 @@
 # config_files
 
-These are personal config files for quick setup.
+1)These are personal config files for quick setup.
 
-You are free to use.
+2)You are free to use.
 
-Use at your own risk.
+3)Use them your own risk.
