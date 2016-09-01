@@ -4,4 +4,4 @@
 
 2)You are free to use.
 
-3)Use them your own risk.
+3)Use them at your own risk.
