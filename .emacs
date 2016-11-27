@@ -48,6 +48,9 @@
 ;;highlight brackets set
 	(show-paren-mode t)
 
+;;autopair brackets
+  (require 'autopair)
+  (autopair-global-mode) ;; to enable in all buffers
 
 
 (custom-set-variables
